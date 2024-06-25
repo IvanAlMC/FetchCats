@@ -18,3 +18,7 @@ section img{
     max-width: 320px;
     height: auto;
 }
+
+button{
+    margin-bottom: 10px;
+}
